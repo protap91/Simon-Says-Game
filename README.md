@@ -7,7 +7,7 @@ A memory-based Simon Says game built using:
 - JavaScript
 
 🔗 Live Demo:
-https://protap91.github.io/simon-says-game/
+https://protap91.github.io/Simon-Says-Game/
 
 ## Features
 - Increasing difficulty
